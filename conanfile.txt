@@ -1,0 +1,13 @@
+[requires]
+
+
+[tool_requires]
+gtest/1.11.0
+
+
+[generators]
+CMakeDeps
+CMakeToolchain
+VirtualRunEnv
+VirtualBuildEnv
+virtualenv
